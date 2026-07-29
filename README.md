@@ -14,3 +14,16 @@
 - PAN-OS Upgrades
 - Configuration Backups
 - Firewall Administration
+
+## Topics Covered
+
+- PAN-OS Architecture
+- Security Policies
+- NAT Policies
+- Panorama Management
+- Device Groups
+- Templates
+- GlobalProtect VPN
+- SSL Decryption
+- High Availability
+- Troubleshooting
